@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Port Manager
+Comment=List and kill active ports
+Icon=preferences-system-network
+Type=Service
+X-KDE-PluginInfo-Author=osmn-byhn
+X-KDE-PluginInfo-Email=osman@example.com
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Category=System
+X-KDE-ServiceTypes=Plasma/Applet

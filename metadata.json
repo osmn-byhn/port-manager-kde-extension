@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+      "Id": "org.kde.portmanager",
+      "Name": "Port Manager",
+      "Description": "List and kill active ports in KDE Plasma",
+      "Version": "1.0",
+      "License": "MIT",
+      "Author": "osmn-byhn",
+      "Email": "osman@example.com",
+      "Category": "System"
+    }
+  }
+  
